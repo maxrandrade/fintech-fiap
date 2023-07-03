@@ -1,0 +1,8 @@
+.action-btn {
+  min-width: 32px;
+}
+
+/* Mantendo labels no HTML para acessibilidade mas ocultando para seguir design do layout */
+form label {
+  display: none;
+}
